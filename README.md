@@ -2,7 +2,13 @@ Semiconductor Geopolitics in the Taiwan Strait
 
 OSINT-BASED Strategic Analysis: US–China Semiconductor Competition and Implications for Turkey
 
----
+## Disclaimer:
+
+This project is an academic portfolio study based entirely on publicly available information.
+
+It is intended for research and educational purposes only and does not represent official assessments, operational analysis, or professional advice.
+
+The findings reflect analytical interpretation of available sources and should be considered within the stated methodology and limitations.
 
 1. Executive Summary
 
@@ -23,7 +29,7 @@ This analysis aims to:
 
 - Map the structural dynamics of US–China semiconductor competition
 - Assess the strategic role of Taiwan Semiconductor Manufacturing Company (TSMC)
-- Identify supply chain vulnerabilities and chokepoints
+- Identify supply chain dependencies and concentration points
 - Evaluate indirect geopolitical and economic exposure relevant to Turkey
 
 ---
@@ -76,7 +82,7 @@ Advanced semiconductor production is not diversified; instead, it is functionall
 TSMC holds a dominant position in advanced semiconductor fabrication:
 
 - Serves as primary manufacturer for US tech firms
-- Embedded deeply in global technology,AI ,telecommunications, and defense-related supply chains.
+- Embedded deeply in global technology, AI, and telecommunications, and critical technology and industrial supply chains
 
 OSINT assessment:
 
@@ -128,7 +134,7 @@ Turkey currently has a limited role in leading-edge semiconductor manufacturing 
 
 8.1 Industrial Dependency
 
-- Reliance on imported electronic components for defense and manufacturing sectors
+- Reliance on imported electronic components across selected industrial sectors
 - Exposure to EU supply chain disruptions
 
 8.2 Strategic Opportunity
@@ -145,14 +151,14 @@ Turkey currently has a limited role in leading-edge semiconductor manufacturing 
 
 ---
 
-9. DATA Limitations
+9. Data Limitations
     Semiconductor supply chain analysis relies on publicly available industry data, corporate disclosures, and government publications. Data availability, reporting methodologies, and market estimates may vary between sources. This assessment therefore focuses on structural trends rather than precise predictive forecasting. 
 
 ---
 
 10. Conclusion
 
-The semiconductor sector represents a structurally concentrated and geopolitically sensitive system. Taiwan’s role as a manufacturing hub creates a significant concentrations risk within the global technology ecosystem. US–China competition is accelerating fragmentation of this system, with significant indirect consequences for third-party economies such as Turkey.
+The semiconductor sector represents a structurally concentrated and geopolitically sensitive system. Taiwan’s role as a manufacturing hub creates a significant concentration risk within the global technology ecosystem. US–China competition is accelerating fragmentation of this system, with significant indirect consequences for third-party economies such as Turkey.
 
 Future developments will likely be shaped by:
 
